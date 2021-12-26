@@ -9,4 +9,4 @@ para cambiar a la rama02
     git checkout rama02
 
 agregando rama03
-    git branch rama03
+    git branch rama03, agregado en rama03
