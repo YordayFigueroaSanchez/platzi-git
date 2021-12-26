@@ -3,3 +3,7 @@ estudio para agregar herramientas
 otra linea en la historia
 
 agreganfo info para conflicto con la rama02
+agregando rama02
+    git branch rama02
+para cambiar a la rama02 
+    git checkout rama02
