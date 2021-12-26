@@ -1,3 +1,8 @@
 Mi nombre es yfs
 estudio para agregar herramientas
 otra linea en la historia
+
+agregando rama02
+    git branch rama02
+para cambiar a la rama02 
+    git checkout rama02
