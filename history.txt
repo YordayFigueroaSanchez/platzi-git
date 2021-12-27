@@ -12,3 +12,5 @@ agregando rama03
     git branch rama03, agregando en el master
 github
     git remote add origin https://github.com/YordayFigueroaSanchez/platzi-git.git
+    git remote -v 
+    git push origin master
