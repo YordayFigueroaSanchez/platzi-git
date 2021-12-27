@@ -10,3 +10,5 @@ para cambiar a la rama02
 
 agregando rama03
     git branch rama03, agregando en el master
+github
+    git remote add origin https://github.com/YordayFigueroaSanchez/platzi-git.git
