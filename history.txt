@@ -14,3 +14,7 @@ github
     git remote add origin https://github.com/YordayFigueroaSanchez/platzi-git.git
     git remote -v 
     git push origin master
+    git remote add main https://github.com/YordayFigueroaSanchez/platzi-git.git
+    git pull origin main --allow-unrelated-histories
+
+    git push origin master:main
