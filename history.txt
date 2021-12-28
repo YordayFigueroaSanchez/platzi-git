@@ -18,3 +18,5 @@ github
     git pull origin main --allow-unrelated-histories
 
     git push origin master:main
+agregrado en github
+    test01
