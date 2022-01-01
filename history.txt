@@ -20,3 +20,6 @@ github
     git push origin master:main
 agregrado en github
     test01
+
+variables de git
+    git config -l
