@@ -23,3 +23,19 @@ agregrado en github
 
 variables de git
     git config -l
+
+crear llave ssh
+    ssh-keygen -t rsa -b 4096 -C "yfsanchez@gmail.com"
+comprobar proceso y agregar llave
+    eval $(ssh-agent -s)
+    ssh-add ~/.ssh/id_rsa
+
+cambiar remote a ssh    
+    git remote -v
+    git remote set-url origin git@github.com:YordayFigueroaSanchez/platzi-git.git
+    git remote -v
+
+siempre actualizar el repositorio
+    git pull origin master
+
+test de cambio
