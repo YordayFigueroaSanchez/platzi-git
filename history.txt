@@ -15,6 +15,17 @@ cambiar remote a ssh
 arbol en el repositorio
     git log --all --graph --decorate --oneline
     alias arbolito="git log --all --graph --decorate --oneline"
+tag crear
+    git tag -a v0.1 -m "version 0.1" 2bd7202
+tag listar
+    git tag
+tag listar con commit
+    git show-ref --tags
+tag publicar en repositorio
+    git push origin --tags
+tag Borrar del repositorio remoto: 
+    git tag -d nombre-del-tag 
+    git push origin :refs/tags/nombre-del-tag
 
 ********************************************************************************
 
