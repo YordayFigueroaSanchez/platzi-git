@@ -12,6 +12,10 @@ cambiar remote a ssh
     git remote -v
     git remote set-url origin git@github.com:YordayFigueroaSanchez/platzi-git.git
     git remote -v
+arbol en el repositorio
+    git log --all --graph --decorate --oneline
+    alias arbolito="git log --all --graph --decorate --oneline"
+
 ********************************************************************************
 
 Mi nombre es yfs
