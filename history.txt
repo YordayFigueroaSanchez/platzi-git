@@ -1,5 +1,17 @@
 NOTAS RESUMEN
-
+agregando rama02
+    git branch rama02
+para cambiar a la rama02 
+    git checkout rama02
+variables de git
+    git config -l
+crear llave ssh
+    ssh-keygen -t rsa -b 4096 -C "yfsanchez@gmail.com"
+    en github configuracion agregar llave ssh, se agrega la llave publica nunca la privada
+cambiar remote a ssh    
+    git remote -v
+    git remote set-url origin git@github.com:YordayFigueroaSanchez/platzi-git.git
+    git remote -v
 ********************************************************************************
 
 Mi nombre es yfs
