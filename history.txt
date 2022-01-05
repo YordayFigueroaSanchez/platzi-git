@@ -26,6 +26,7 @@ variables de git
 
 crear llave ssh
     ssh-keygen -t rsa -b 4096 -C "yfsanchez@gmail.com"
+    use la llave creada para el git de geocom
 comprobar proceso y agregar llave
     eval $(ssh-agent -s)
     ssh-add ~/.ssh/id_rsa
