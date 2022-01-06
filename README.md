@@ -31,3 +31,7 @@ puedes recoger todos los cambios confirmados en una rama y ponerlos sobre otra (
     git stash pop stash@{num_stash} : Aplica los cambios de un stash específico y elimina lo stash.
     git stash branch nombre_de_rama : Crea una rama y aplica el stash mas reciente.
     git stash branch nombre_de_rama stash@{num_stash} : Crea una rama y aplica el stash especificado.
+# Git Clean: limpiar tu proyecto de archivos no deseados
+	git clean --dry-run (vista previa)
+ 	git clean -f
+	git clean -df hubiera borrado la carpeta “css - copia”
