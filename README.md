@@ -1,7 +1,4 @@
 # platzi-git
-prueba de git
-
-test cherryPick 001
-
-test 002
-mejorado 001
+# Readme.md es una excelente práctica
+Editor online
+https://pandao.github.io/editor.md/en.html

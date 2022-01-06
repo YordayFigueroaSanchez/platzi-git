@@ -86,6 +86,10 @@ comandos y recursos colaborativos
     git branch -r **= se muestran todas las ramas remotas
     git branch -a = se muestran todas las ramas tanto locales como remotas
 
+readme.md
+    editor online
+    https://pandao.github.io/editor.md/en.html
+
 
 
 
