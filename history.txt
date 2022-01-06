@@ -71,6 +71,11 @@ reconstruir commit
     git commit --amend
 reset reflog (mala practica)
     resetea al has que tomemos de (git reflog)
+buscar archivos y en commits
+    git grep -n color (numero de linea)
+    git grep -c color (contar)
+
+    git log -S "cabeza" (buscar en commit)
 
 
 
