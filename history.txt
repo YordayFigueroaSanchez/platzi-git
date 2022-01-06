@@ -64,7 +64,10 @@ clean
 cherry-pick (mala )
     desde la rama donde llega el commit
     git cherry-pick <numero del commit>
-
+reconstruir commit
+    despues de hacer el commit nos percatamos que falta algo mas
+    --amend
+    
 
 
 ********************************************************************************
