@@ -106,3 +106,6 @@ siempre actualizar el repositorio
     git pull origin master
 
 test de cambio
+
+************************
+stash test
