@@ -62,7 +62,7 @@ clean
     git clean --dry-run (vista previa)
     git clean -f
 cherry-pick (mala )
-    desde la rama donde llega el commit
+    desde la rama donde llegara el commit
     git cherry-pick <numero del commit>
 reconstruir commit
     despues de hacer el commit nos percatamos que falta algo mas

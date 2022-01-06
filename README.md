@@ -35,3 +35,6 @@ puedes recoger todos los cambios confirmados en una rama y ponerlos sobre otra (
 	git clean --dry-run (vista previa)
  	git clean -f
 	git clean -df hubiera borrado la carpeta “css - copia”
+# Git cherry-pick: traer commits viejos al head de un branch
+	desde la rama donde llegara el commit
+	git cherry-pick <numero del commit>
