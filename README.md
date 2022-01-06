@@ -43,3 +43,8 @@ despues de hacer el commit nos percatamos que falta algo mas
 --amend
 	git add 
 	git commit --amend
+# Git Reset y Reflog: úsese en caso de emergencia
+reset reflog (mala practica)
+resetea al identificador que tomemos de (git reflog)
+git reset --soft <hash del commit>
+git reset --hard <hash del commit>
