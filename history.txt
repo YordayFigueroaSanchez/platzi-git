@@ -58,7 +58,9 @@ stash
     git stash pop stash@{num_stash} : Aplica los cambios de un stash específico y elimina lo stash.
     git stash branch nombre_de_rama : Crea una rama y aplica el stash mas reciente.
     git stash branch nombre_de_rama stash@{num_stash} : Crea una rama y aplica el stash especificado.
-
+clean
+    git clean --dry-run (vista previa)
+    git clean -f
 
 
 
