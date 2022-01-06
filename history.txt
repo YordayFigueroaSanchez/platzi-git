@@ -30,6 +30,22 @@ tag publicar en repositorio
 tag Borrar del repositorio remoto: 
     git tag -d nombre-del-tag 
     git push origin :refs/tags/nombre-del-tag
+fork
+
+readme.md
+
+rebase (mala practica)
+    rebase desde la rama particular para traer los cambios de la master
+    rebase desde master para traer los cambios de la rama particular
+    se crea rama experimento
+    se agrega commit en master
+    se agrega commit en experimento
+    se agrega otro commit en experimento
+    se agrega commit en master
+    en la rama experimento (rebase master)
+    en la rama master (rebase experimento)
+
+
 
 ********************************************************************************
 
