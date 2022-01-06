@@ -69,6 +69,9 @@ reconstruir commit
     --amend
     git add 
     git commit --amend
+reset reflog (mala practica)
+    resetea al has que tomemos de (git reflog)
+
 
 
 
