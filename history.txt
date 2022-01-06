@@ -61,6 +61,8 @@ stash
 clean
     git clean --dry-run (vista previa)
     git clean -f
+cherry-pick
+    
 
 
 
