@@ -67,7 +67,9 @@ cherry-pick (mala )
 reconstruir commit
     despues de hacer el commit nos percatamos que falta algo mas
     --amend
-    
+    git add 
+    git commit --amend
+
 
 
 ********************************************************************************
@@ -119,3 +121,6 @@ test de cambio
 stash test
     stash 002
     stash 001
+************************
+test
+test02
