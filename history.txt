@@ -3,6 +3,10 @@ agregando rama02
     git branch rama02
 para cambiar a la rama02 
     git checkout rama02
+rama listar 
+    git branch
+rama subir
+    git push origin arreglo001
 variables de git
     git config -l
 crear llave ssh
