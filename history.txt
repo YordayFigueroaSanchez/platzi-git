@@ -110,3 +110,4 @@ test de cambio
 ************************
 stash test
     stash 002
+    stash 001
