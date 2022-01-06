@@ -46,5 +46,9 @@ despues de hacer el commit nos percatamos que falta algo mas
 # Git Reset y Reflog: úsese en caso de emergencia
 reset reflog (mala practica)
 resetea al identificador que tomemos de (git reflog)
-git reset --soft <hash del commit>
-git reset --hard <hash del commit>
+git reset --soft "hash del commit"
+git reset --hard "hash del commit"
+# Buscar en archivos y commits de Git con Grep y log
+	git grep -n color (numero de linea donde aparece la palabra color)
+	git grep -c color (contar las apariciones de la palabra color)
+	git log -S "cabeza" (buscar en commit)
