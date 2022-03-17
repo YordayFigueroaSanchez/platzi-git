@@ -1,0 +1,3 @@
+test
+primero commit y despues add y commit
+debe actualizar el fichero test_fetch que ya esta en el staging y no este que aun no esta en el stagien, solo en el directorio de trabajo
